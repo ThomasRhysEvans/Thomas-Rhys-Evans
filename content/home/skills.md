@@ -43,6 +43,3 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
-
-
-https://www.youtube.com/channel/UCJQk8y5XqICJkmjfEZO_s0A
