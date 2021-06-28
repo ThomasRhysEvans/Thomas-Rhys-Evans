@@ -20,7 +20,7 @@ feature:
   icon: youtube
   icon_pack: fab
   name: Videos and Talks
-- description: Access all materials, data, code and other such resources on my osf page... https://osf.io/ydmcr/
+- description: Access all materials, data, code and other such resources from my research on my osf page... https://osf.io/ydmcr/
   icon: osf
   icon_pack: ai
   name: Open Data and Materials
