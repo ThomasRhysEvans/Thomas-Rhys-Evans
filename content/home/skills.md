@@ -16,7 +16,8 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Since 2020, I have re-recorded all conference talks and presentations so they are accessible and can be enjoyed at a time and space of your comfort. Check out my YouTube channel, here: https://www.youtube.com/channel/UCJQk8y5XqICJkmjfEZO_s0A
+- description: Since 2020, I have re-recorded all conference talks and presentations so they are accessible and can be enjoyed at a time and space of your comfort. 
+Check out my YouTube channel, here: https://www.youtube.com/channel/UCJQk8y5XqICJkmjfEZO_s0A
   icon: youtube
   icon_pack: fab
   name: Videos and Talks
