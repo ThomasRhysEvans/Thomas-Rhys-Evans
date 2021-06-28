@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: See talks on my Youtube Channel
 
 event: Wowchemy Conference
-event_url: https://example.org
+event_url: https://www.youtube.com/channel/UCJQk8y5XqICJkmjfEZO_s0A
 
 location: Wowchemy HQ
 address:
