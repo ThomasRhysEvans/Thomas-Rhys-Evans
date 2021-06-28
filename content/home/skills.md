@@ -9,17 +9,17 @@ headless: false
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Resources
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: https://www.youtube.com/channel/UCJQk8y5XqICJkmjfEZO_s0A
+  icon: youtube
   icon_pack: fab
-  name: R
+  name: Videos and Talks
 - description: 100%
   icon: chart-line
   icon_pack: fas
