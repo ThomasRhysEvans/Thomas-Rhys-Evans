@@ -20,14 +20,14 @@ feature:
   icon: youtube
   icon_pack: fab
   name: Videos and Talks
-- description: Access all materials, data, code and other such resources on my osf page... osf.io/ydmcr
+- description: Access all materials, data, code and other such resources on my osf page... https://osf.io/ydmcr/
   icon: osf
   icon_pack: ai
   name: Open Data and Materials
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: You can find a list of all my publications, with open-access versions, here... https://scholar.google.com/citations?hl=en&user=NjpeSqMAAAAJ
+  icon: google-scholar
+  icon_pack: ai
+  name: Open Access Publications
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
