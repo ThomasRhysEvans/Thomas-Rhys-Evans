@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Thomas Rhys Evans
+title: Thomas Rhys Evans (He/Him/His)
 
 # Is this the primary user of the site?
 superuser: true
@@ -68,7 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-Dr Thomas Rhys Evans is an Associate Professor in Occupational Psychology at the University of Greenwich, UK. 
+Dr Thomas Rhys Evans is an Associate Professor in Occupational Psychology at the University of Greenwich, UK. He is a Chartered Psychologist and Fellow of the Higher Education Academy.
 
 Tom’s early research profile focussed upon a variety of themes surrounding the affective and social aspects of our working lives, leading projects on humour, emotional intelligence, feedback, and frustration. Tom’s research currently focuses upon using meta-psychology and open science practices to understand the quality of evidence within Occupational Psychology, and Psychology more broadly. Tom has a background of applying Occupational Psychology to the Fire Service context, and particularly enjoys adopting a collaborative and critical approach to addressing big societal issues.
 
