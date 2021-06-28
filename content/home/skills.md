@@ -20,10 +20,10 @@ feature:
   icon: youtube
   icon_pack: fab
   name: Videos and Talks
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+- description: Access all materials, data, code and other such resources on my osf page... osf.io/ydmcr
+  icon: osf
+  icon_pack: ai
+  name: Open Data and Materials
 - description: 10%
   icon: camera-retro
   icon_pack: fas
