@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: 'Recent & Upcoming Talks'
-subtitle:
+subtitle: Since 2010, I re-record all conference presentations and talks so they are accessible and can be viewed at a time and place of your own convenience! My Youtube channel: https://www.youtube.com/channel/UCJQk8y5XqICJkmjfEZO_s0A
 
 content:
   # Page type to display. E.g. post, event, publication...
