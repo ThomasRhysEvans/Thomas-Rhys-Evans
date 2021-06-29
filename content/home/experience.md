@@ -33,31 +33,19 @@ experience:
         * Role model the most inclusive and robust practices in communication and collaboration
         * Implement/champion initiatives to improve science culture in my current workplace and collaborations
 
-
-
-
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
+  - title: Inclusivity and "Isms"
+    company: Goal 12
     date_start: '2021-01-01'
-    date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+         Goals include:
+        * Offer free consultancy for socially-impactful research and/or non-for-profit initiatives led by individuals from communities who face current, or have faced historic, marginalisation or discrimination
+        * Use positions of authority/responsibility to challenge exclusionary systems and empower others
+        * Lead/contribute to research challenging existing discrimination and/or promoting equal opportunities
+        * Champion allyship (e.g. pronoun use) as standard
+
+
+
+ 
 
 design:
   columns: '2'
