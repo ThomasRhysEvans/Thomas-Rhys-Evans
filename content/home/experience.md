@@ -53,7 +53,7 @@ experience:
         * Lead an international consortium conducting research on socially-important workplace phenomena (e.g. green-washing, corruption, etc)
         * Implement/champion initiatives to improve fairness and compassion in my current workplace
 
-   - title: Society and Communities
+  - title: Society and Communities
     company: Goal 4
     date_start: '2021-01-01'
     description: |2-
