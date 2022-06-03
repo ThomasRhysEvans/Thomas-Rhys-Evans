@@ -19,8 +19,8 @@ bio: All about evidence quality. Passionate about high-quality evidence creation
 # Interests to show in About widget
 interests:
 - Occupational Psychology
-- Open Science
-- Meta-psychology
+- Open Scholarship
+- Meta-science
 - Evidence-based practice
 
 # Education to show in About widget
@@ -70,7 +70,7 @@ highlight_name: false
 
 Hello! My name is Tom (he/him/his) and I am an Associate Professor in Occupational Psychology at the University of Greenwich, UK. I am also a Chartered Psychologist, Fellow of the Higher Education Academy and Co-Editor-In-Chief of the Journal of Open Psychology Data.
 
-My early research profile focussed upon a variety of themes surrounding the affective and social aspects of our working lives, leading projects on humour, emotional intelligence, feedback, and frustration. I currently focus upon using meta-psychology and open science practices to understand the quality of evidence within Occupational Psychology, and Psychology more broadly. I work with a number of industry partners, and have published a book on the application of Occupational Psychology to the Fire Service. 
+My early research profile focussed upon a variety of themes surrounding the affective and social aspects of our working lives, leading projects on humour, emotional intelligence, feedback, and frustration. I currently focus upon using meta-science and open scholarship practices to understand the quality of evidence within Occupational Psychology, and Psychology more broadly. I work with a number of industry partners, and have published a book on the application of Occupational Psychology to the Fire Service. 
 
 I particularly enjoy adopting a collaborative and critical approach to addressing big societal issues and welcome opportunities to collaborate with researchers, practitioners and industry partners on such goals.
 
