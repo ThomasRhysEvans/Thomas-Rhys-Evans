@@ -14,7 +14,7 @@ organizations:
   url: https://www.gre.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: All about evidence quality. Passionate about high-quality evidence creation, synthesis/evaluation and application.
+bio: Passionate about high-quality evidence creation, synthesis/evaluation and application towards Global Goals
 
 # Interests to show in About widget
 interests:
@@ -68,9 +68,9 @@ email: ""
 highlight_name: false
 ---
 
-Hello! My name is Tom (he/him/his) and I am an Associate Professor in Occupational Psychology at the University of Greenwich, UK. I am also a Chartered Psychologist, Fellow of the Higher Education Academy and Co-Editor-In-Chief of the Journal of Open Psychology Data.
+Hello! My name is Tom (he/him/his) and I am an Associate Professor in Occupational Psychology at the University of Greenwich, UK. I am also a Chartered Psychologist, Senior Fellow of the Higher Education Academy and Co-Editor-In-Chief of the Journal of Open Psychology Data.
 
-My early research profile focussed upon a variety of themes surrounding the affective and social aspects of our working lives, leading projects on humour, emotional intelligence, feedback, and frustration. I currently focus upon using meta-science and open scholarship practices to understand the quality of evidence within Occupational Psychology, and Psychology more broadly. I work with a number of industry partners, and have published a book on the application of Occupational Psychology to the Fire Service. 
+My early research profile focussed upon a variety of themes surrounding the affective and social aspects of our working lives, leading projects on humour, emotional intelligence, feedback, and frustration. I currently focus upon using meta-science and open scholarship practices to understand the quality of evidence within Occupational Psychology, and Psychology more broadly. I work with a number of industry partners, and have published books on the application of Occupational Psychology to the Fire Service, and the evidence behind HR practices
 
 I particularly enjoy adopting a collaborative and critical approach to addressing big societal issues and welcome opportunities to collaborate with researchers, practitioners and industry partners on such goals.
 
