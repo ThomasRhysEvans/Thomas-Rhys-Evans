@@ -6,7 +6,7 @@ title: Thomas Rhys Evans (He/Him/His)
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor in Occupational Psychology
+role: Professor in Occupational Psychology and Open Scholarship
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -68,9 +68,9 @@ email: ""
 highlight_name: false
 ---
 
-Hello! My name is Tom (he/him/his) and I am an Associate Professor in Occupational Psychology at the University of Greenwich, UK. I am also a Chartered Psychologist, Senior Fellow of the Higher Education Academy and Co-Editor-In-Chief of the Journal of Open Psychology Data.
+Hello! My name is Tom (he/him/his) and I am a Professor in Occupational Psychology and Open Scholarship at the University of Greenwich, UK. I am also a Chartered Psychologist, Principal Fellow of the Higher Education Academy and Co-Editor-In-Chief of the Journal of Open Psychology Data.
 
-My early research profile focussed upon a variety of themes surrounding the affective and social aspects of our working lives, leading projects on humour, emotional intelligence, feedback, and frustration. I currently focus upon using meta-science and open scholarship practices to understand the quality of evidence within Occupational Psychology, and Psychology more broadly. I work with a number of industry partners, and have published books on the application of Occupational Psychology to the Fire Service, and the evidence behind HR practices
+Whilst my ‘home’ is within Occupational Psychology, in which I am passionate about challenging corruption, climate change, and inequalities, my research has also focused upon improving the teaching and research practices behind the research that impacts our society. I have found this meta-research and open science reform a rewarding gateway to influencing research and  policy across disciplines and geographical boundaries.
 
 I particularly enjoy adopting a collaborative and critical approach to addressing big societal issues and welcome opportunities to collaborate with researchers, practitioners and industry partners on such goals.
 
